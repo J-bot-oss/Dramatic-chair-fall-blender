@@ -1,0 +1,13 @@
+# Blender backup files
+*.blend1
+*.blend2
+*.blend@
+*.tmp
+
+# Render cache or temporary folders
+cache/
+tmp/
+temp/
+
+# Optional: ignore frame renders if too many
+frames/
